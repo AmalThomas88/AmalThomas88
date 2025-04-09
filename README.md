@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Analytics**
 
-- 🤝 I’m looking for help with **Quantitative Finance**
+- 🤝 I’m looking for help on **Quantitative Finance**
 
 - 💬 Ask me about **Java**
 
